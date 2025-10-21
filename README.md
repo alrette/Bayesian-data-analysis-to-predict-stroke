@@ -1,5 +1,5 @@
 # Bayesian Data Analysis for Stroke Prediction
-
+[Repo Cloned from [@Arieldhipta Tarliman](https://github.com/arieltarliman) due to its being group work]
 ## 🚀 Introduction
 
 This project presents a comprehensive Bayesian data analysis to predict the probability of stroke in patients based on a range of demographic, lifestyle, and clinical factors. Stroke is a critical medical condition and a leading cause of death and disability worldwide, making early risk identification essential for preventive care. This analysis leverages a dataset of 5,110 patients to build and compare two distinct Bayesian logistic regression models, aiming to identify the most significant predictors of stroke.
@@ -90,4 +90,3 @@ While the chosen model shows a good overall fit, it struggles with accurately pr
 
 ***
 
-[Repo Cloned from @arieltarliman due to its being group work]
